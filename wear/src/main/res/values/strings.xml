@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">New_App</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_analog_name">My Analog</string>
+    <string name="hello_goal">Set Daily Goal</string>
+    <string name="defaultGoal">10000</string>
+    <string name="submit">Submit</string>
+    <string name="senddata">Send</string>
+    <string name="hello_world">Hello Round World!</string>
+    <string name="setgoal">Do you want to set a new goal?</string>
+    <string name="activity_in_vehicle">In Vehicle</string>
+    <string name="activity_on_bicycle">On Bicycle</string>
+    <string name="activity_on_foot">On Foot</string>
+    <string name="activity_running">Running</string>
+    <string name="activity_still">Still</string>
+    <string name="activity_tilting">Tilting</string>
+    <string name="activity_walking">Walking</string>
+    <string name="activity_unknown">Unknown</string>
+</resources>
